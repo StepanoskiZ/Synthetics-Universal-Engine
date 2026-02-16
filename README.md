@@ -1,5 +1,4 @@
 # SINTETIKA (Logic 0.5): The Universal Scaling Engine
-
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18665275.svg)](https://doi.org/10.5281/zenodo.18665275)
 
 **Author:** Zoran Stepanoski  
@@ -21,6 +20,8 @@ Through large-scale simulation and information-theory analysis, this repository 
 $$S = 8.74 \times 10^{-10} \text{ m/s}^2$$
 
 This constant represents the base "Processing Speed" of the universe. When applied through the **Zoran Scaling Law** (a non-linear complexity exponent of **12.1**), it successfully unifies three disparate scales of physics without the need for Dark Matter or additional "ghost" particles.
+
+---
 
 ### 📊 Verified Scientific Results
 
