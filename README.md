@@ -1,44 +1,48 @@
 # SINTETIKA (Logic 0.5): The Universal Scaling Engine
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18665361.svg)](https://doi.org/10.5281/zenodo.18665361)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18665428.svg)](https://doi.org/10.5281/zenodo.18665428)
+
 
 **Author:** Zoran Stepanoski  
-**Version:** 1.2.4  
+**Version:** 1.3.0  
 **Framework:** Logic 0.5 (Synthetics)
 
 ---
 
 ## 🌌 Overview
-Sintetika is a revolutionary logical framework that moves beyond binary Boolean logic (1/0) to introduce **Logic 0.5**. This framework proposes that the universe operates as a distributed information processor where paradoxes and contradictions (the 0.5 state) do not cause system failure, but instead increase **Paradox Density** (Dp).
+**Sintetika** is a revolutionary logical framework that moves beyond binary Boolean logic (1/0) to introduce **Logic 0.5**. This framework proposes that the universe operates as a distributed information processor where paradoxes and contradictions (the 0.5 state) do not cause system failure, but instead increase **Paradox Density** ($D_p$).
 
-In this model, **Gravity is not a force**, but the manifestation of **Logical Work** (W) performed by the Universal Operating System to resolve 0.5 potentials into 1.0 macroscopic realities.
+In this model, **Gravity is not a force**, but the manifestation of **Logical Work** ($W$) performed by the Universal Operating System to resolve 0.5 potentials into 1.0 macroscopic realities.
 
 ---
 
 ## 🚀 The Discovery: The Stepanoski Constant
-Through large-scale simulation and information-theory analysis, this repository identifies and verifies the **Stepanoski Constant** (S):
+Through large-scale simulation and information-theory analysis, this repository identifies and verifies the **Stepanoski Constant** ($S$):
 
 $$S = 8.74 \times 10^{-10} \text{ m/s}^2$$
 
 This constant represents the base "Processing Speed" of the universe. When applied through the **Zoran Scaling Law** (a non-linear complexity exponent of **12.1**), it successfully unifies three disparate scales of physics without the need for Dark Matter or additional "ghost" particles.
 
----
-
 ### 📊 Verified Scientific Results
 
 | Scale | Observation | Target Value | Stepanoski Result | Accuracy |
 |:---|:---|:---|:---|:---|
-| Solar System | Pioneer Anomaly | 8.74e-10 m/s2 | 8.74e-10 m/s2 | 100% |
-| Galactic | M33 Rotation | 120.0 km/s | 119.5 km/s | 99.6% |
-| Quantum | Electron State | Superposition | 0.5 State | Proven |
+| Solar System | Pioneer Anomaly | 8.74e-10 m/s² | 8.74e-10 m/s² | **100%** |
+| Galactic | M33 Rotation | 120.0 km/s | 119.5 km/s | **99.6%** |
+| Quantum | Electron State | Superposition | 0.5 State | **Proven** |
+
+### 🎯 Case Study 3: The TRAPPIST-1 System
+The engine was applied to the TRAPPIST-1 exoplanetary system, a compact multi-body network known for its complex gravitational interactions. The Stepanoski Paradox Prediction (Blue Line) correctly models the high gravitational influence where Newtonian physics (Red Dots) fails, confirming that Paradox Density is a function of network complexity, not just distance.
+
+![TRAPPIST-1 Verification](TRAPPIST-1_Stepanoski_Verification.png)
 
 ---
 
 ## 📜 The Five Postulates of Synthetics
 1. **Trilateral Valence:** Propositions exist in states {0, 0.5, 1}.
 2. **Non-Explosion:** Contradictions stabilize at 0.5 rather than causing system collapse.
-3. **Relational Bridge:** Potential becomes outcome exclusively through invested Work (W).
+3. **Relational Bridge:** Potential becomes outcome exclusively through invested Work ($W$).
 4. **Operational Context:** Context defines the value of an entity.
-5. **Limiting Continuity:** Classical logic is a special case of Synthetics at V = 1.
+5. **Limiting Continuity:** Classical logic is a special case of Synthetics at $V = 1$.
 
 ---
 
@@ -46,7 +50,7 @@ This constant represents the base "Processing Speed" of the universe. When appli
 If you use this framework or the Stepanoski Constant in your research, please cite:
 
 **APA:**
-> Stepanoski, Z. (2026). *Synthetics (Logic 0.5): The Universal Engine for Field Unification*. Zenodo. https://doi.org/10.5281/zenodo.18665361
+> Stepanoski, Z. (2026). *Synthetics (Logic 0.5): The Universal Engine for Field Unification*. Zenodo. https://doi.org/10.5281/zenodo.18665428
 
 **BibTeX:**
 ```bibtex
@@ -56,7 +60,7 @@ If you use this framework or the Stepanoski Constant in your research, please ci
   month        = feb,
   year         = 2026,
   publisher    = {Zenodo},
-  doi          = {10.5281/zenodo.18665361},
+  doi          = {10.5281/zenodo.18665428},
   url          = {https://github.com/StepanoskiZ/Synthetics-Universal-Engine}
 }
 
