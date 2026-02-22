@@ -3,12 +3,13 @@
 
 **Author:** Zoran Stepanoski  
 **Version:** Version 1.9: Integrated Holographic Bound (N=10^122) and Spherical Horizon Correction (4-Pi) for unified galactic and stellar scale resolution.
-**Framework:** Logic 0.5 (Synthetics)  
+
+**Framework:** Logic 0.5 (Syntetika)  
 
 ---
 
 ## 🌌 Overview
-**Sintetika** is a revolutionary logical framework that moves beyond binary Boolean logic (1/0) to introduce **Logic 0.5**. This framework proposes that the universe operates as a distributed information processor where paradoxes and contradictions (the 0.5 state) do not cause system failure, but instead increase **Paradox Density** ($D_p$).
+**Syntetika** is a revolutionary logical framework that moves beyond binary Boolean logic (1/0) to introduce **Logic 0.5**. This framework proposes that the universe operates as a distributed information processor where paradoxes and contradictions (the 0.5 state) do not cause system failure, but instead increase **Paradox Density** ($D_p$).
 
 In this model, **Gravity is not a force**, but the manifestation of **Logical Work** ($W$) performed by the Universal Operating System to resolve 0.5 potentials into 1.0 macroscopic realities.
 
@@ -39,7 +40,7 @@ The engine has been stress-tested across **60 orders of magnitude**:
 ---
 
 ## 📉 Financial Physics: The 2008 Crash Simulation
-Synthetics applies to *any* distributed information system, including economics.
+Syntetika applies to *any* distributed information system, including economics.
 *   **Price ($P$):** Hallucinated Value.
 *   **Value ($V$):** Real Logic (1.0).
 *   **Crash:** Garbage Collection ($W$) to restore stability.
@@ -64,15 +65,15 @@ The engine was applied to the TRAPPIST-1 exoplanetary system. The Stepanoski Par
 To run the **Universal Scale Validator** and verify the findings yourself:
 
 bash
-git clone https://github.com/StepanoskiZ/Synthetics-Universal-Engine.git
-cd Synthetics-Universal-Engine
+git clone https://github.com/StepanoskiZ/Syntetika-Universal-Engine.git
+cd Syntetika-Universal-Engine
 python universal_scale_validator.py
-## 📜 The Five Postulates of Synthetics
+## 📜 The Five Postulates of Syntetika
 1. **Trilateral Valence:** Propositions exist in states {0, 0.5, 1}.
 2. **Non-Explosion:** Contradictions stabilize at 0.5 rather than causing system collapse.
 3. **Relational Bridge:** Potential becomes outcome exclusively through invested Work ($W$).
 4. **Operational Context:** Context defines the value of an entity.
-5. **Limiting Continuity:** Classical logic is a special case of Synthetics at $V = 1$.
+5. **Limiting Continuity:** Classical logic is a special case of Syntetika at $V = 1$.
 
 ---
 
@@ -80,18 +81,18 @@ python universal_scale_validator.py
 If you use this framework or the Stepanoski Constant in your research, please cite:
 
 **APA:**
-> Stepanoski, Z. (2026). *Synthetics (Logic 0.5): The Universal Engine for Field Unification*. Zenodo. https://doi.org/10.5281/zenodo.18665428
+> Stepanoski, Z. (2026). *Syntetika (Logic 0.5): The Universal Engine for Field Unification*. Zenodo. https://doi.org/10.5281/zenodo.18665428
 
 **BibTeX:**
 ```bibtex
 @software{stepanoski_2026_logic05,
   author       = {Zoran Stepanoski},
-  title        = {Synthetics (Logic 0.5): The Universal Engine for Field Unification},
+  title        = {Syntetika (Logic 0.5): The Universal Engine for Field Unification},
   month        = feb,
   year         = 2026,
   publisher    = {Zenodo},
   doi          = {10.5281/zenodo.18665428},
-  url          = {https://github.com/StepanoskiZ/Synthetics-Universal-Engine}
+  url          = {https://github.com/StepanoskiZ/Syntetika-Universal-Engine}
 }
 
 Developed by Zoran Stepanoski. Bridging the gap between Software Engineering and Cosmology.
