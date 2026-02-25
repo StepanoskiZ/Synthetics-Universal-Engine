@@ -1,5 +1,5 @@
 # SYNTETIKA (Logic 0.5): The Universal Scaling Engine
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18665428.svg)](https://doi.org/10.5281/zenodo.18665428) [![Build Status](https://img.shields.io/badge/build-passing-brightgreen)]() [![License](https://img.shields.io/badge/license-MIT-blue)]()
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18665428.svg)](https://doi.org/10.5281/zenodo.18765758) [![Build Status](https://img.shields.io/badge/build-passing-brightgreen)]() [![License](https://img.shields.io/badge/license-MIT-blue)]()
 
 **Author:** Zoran Stepanoski  
 **Version:** Version 3.1.2: Integrated Holographic Bound (N=10^122) and Spherical Horizon Correction (4-Pi) for unified galactic and stellar scale resolution.
